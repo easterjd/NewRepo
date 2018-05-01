@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Lolololol
+=======
+Hello Dillon
+>>>>>>> deb0a91165fdf88158c7b2e8a462f8c89c4cea5
+Hey dude!
